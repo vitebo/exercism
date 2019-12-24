@@ -5,7 +5,7 @@
 ```sh
 docker volume create exercism-config
 
-alias exercism='docker run -it \
+alias exercism='docker run \
   -v "$PWD":/home/exercism \
   -v exercism-config:/root/.config/exercism \
   --rm \
