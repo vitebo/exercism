@@ -1,4 +1,4 @@
-# [Exercism](https://exercism.io)
+# Exercism
 
 Code practice and mentorship for everyone.
 
